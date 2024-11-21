@@ -1,0 +1,1 @@
+# DIPOLOM_autotest_and_SQL
